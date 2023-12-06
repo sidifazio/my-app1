@@ -16,7 +16,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "deploy": "gh-pages -d build",
   },
+  "homepage": "https://cse204-2023.github.io/09-todo-react-sidifazio",
   "eslintConfig": {
     "extends": [
       "react-app",
